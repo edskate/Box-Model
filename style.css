@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(8, 114, 141);
+    margin:0px;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 3px 4px 5px;
+
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    background-color: rgba(69, 66, 105);
+    color:white;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 50px solid black;
+            }
+            .text-section {
+                font-size: 1.5em;
+                text-align: center;
+                text-shadow: 2px 3px 4px rgb(253, 253, 253);
+                width: 200px;
+                margin: 8%;
+            }
+            .text-section div{
+                font-size: 30px;
+                margin-top: 2em;
+            }
+            .p{
+                color: green;
+                box-shadow: 2px 3px 4px ;
+            }
+            html{
+                font-size: 16px;
+
+            }
+           
